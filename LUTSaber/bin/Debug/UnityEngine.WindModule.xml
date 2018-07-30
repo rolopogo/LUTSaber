@@ -4,6 +4,11 @@
     <assembly>
       <name>UnityEngine.WindModule</name>
     </assembly>
+    <member name="A:UnityEngine.WindModule">
+      <summary>
+        <para>The Wind module implements the WindZone component which can affect terrain rendering and particle simulations.</para>
+      </summary>
+    </member>
     <member name="T:UnityEngine.WindZone">
       <summary>
         <para>Wind Zones add realism to the trees you create by making them wave their branches and leaves as if blown by the wind.</para>

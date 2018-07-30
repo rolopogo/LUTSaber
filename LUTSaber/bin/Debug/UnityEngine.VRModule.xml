@@ -4,6 +4,11 @@
     <assembly>
       <name>UnityEngine.VRModule</name>
     </assembly>
+    <member name="A:UnityEngine.VRModule">
+      <summary>
+        <para>The VR module implements support for virtual reality devices in Unity.</para>
+      </summary>
+    </member>
     <member name="T:UnityEngine.XR.InputTracking">
       <summary>
         <para>A collection of methods and properties for interacting with the XR tracking system.</para>

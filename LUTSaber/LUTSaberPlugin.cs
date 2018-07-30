@@ -11,7 +11,7 @@ namespace LUTSaber
     public class LUTPlugin : IPlugin
     {
         public string Name => "LUTSaber";
-        public string Version => "1.0.1";
+        public string Version => "1.2";
         public void OnApplicationStart()
         {
             SceneManager.activeSceneChanged += SceneManagerOnActiveSceneChanged;
